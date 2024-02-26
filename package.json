@@ -1,0 +1,11 @@
+{
+  "name": "E-commerce",
+  "version": "1.0.0",
+  "description": " E-commerce platform consisting of several microservices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cody Dzialo",
+  "license": "MIT"
+}

@@ -1,0 +1,15 @@
+# Ignore environment-specific files
+.env
+.env.local
+
+# Ignore log files
+*.log
+
+# Ignore Node.js modules
+node_modules/
+
+# Ignore compiled binaries
+*.exe
+*.dll
+*.so
+*.dylib
